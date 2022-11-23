@@ -1,4 +1,4 @@
-# SECCOM 2022 - Website
+# SECCOM 2021 - Website
 
 ## Project setup
 ```
